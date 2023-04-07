@@ -1,5 +1,5 @@
 # Dataset
-Curious IQ – Data Analytics | Cohort <your cohort number>
+Curious IQ – Data Analytics | Cohort <3>
 Name: <IGHARO Uhunoma Godfrey>
 Academic Year: <September 2022-March 2023>
 Final Project covering topics:
